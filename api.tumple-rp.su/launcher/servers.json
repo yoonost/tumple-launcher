@@ -1,0 +1,11 @@
+{
+    "result": true,
+    "data": [
+        {
+            "name": "title",
+            "sticker": "#FFFFFF",
+            "address": "127.0.0.1",
+            "port": "7777"
+        }
+    ]
+}
